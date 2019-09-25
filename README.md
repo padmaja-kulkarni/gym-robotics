@@ -1,1 +1,2 @@
-Environments generally placed in anaconda3/envs/spinningup/lib/python3.6/site-packages/gym/envs/
+gym/envs/
+There is a robotics environment already in the gym. This code just adds an additional environement.
